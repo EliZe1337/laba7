@@ -1,0 +1,15 @@
+{
+    "name": "user/laba7",
+    "autoload": {
+        "psr-4": {
+            "User\\Laba7\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "EliZe1337",
+            "email": "timoxashro@gmail.com"
+        }
+    ],
+    "require": {}
+}
